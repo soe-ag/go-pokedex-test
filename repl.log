@@ -1,3 +1,10 @@
-Pokedex > Your command was: charmander
-Pokedex > Your command was: pikachu
-Pokedex > 
+Pokedex > Unknown command
+Pokedex > Unknown command
+Pokedex > Unknown command
+Pokedex > Unknown command
+Pokedex > Welcome to the Pokedex!
+Usage:
+
+exit: Exit the Pokedex
+help: Displays a help message
+Pokedex > Closing the Pokedex... Goodbye!
